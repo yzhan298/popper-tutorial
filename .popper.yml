@@ -1,0 +1,10 @@
+badge-server-url: http://badges.falsifiable.us
+metadata:
+  access_right: open
+  license: CC-BY-4.0
+  publication_type: article
+  upload_type: publication
+pipelines: {}
+search_sources:
+- popperized
+version: 1
